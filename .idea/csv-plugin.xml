@@ -10,6 +10,34 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/app/routers/game_tokens_router.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/data/testing_data_context.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/game_token/base_game_token.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/game_token/game_token.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/tests/app/main_test.py">
           <value>
             <Attribute>
@@ -17,7 +45,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/tests/app/routers/game_tokens_router_test.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/tests/app/routers/main_router_test.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tests/conftest.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />

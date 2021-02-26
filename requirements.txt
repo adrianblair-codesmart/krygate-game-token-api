@@ -13,8 +13,10 @@ pluggy==0.13.1
 py==1.10.0
 pydantic==1.7.3
 pyparsing==2.4.7
+PySnooper==0.4.2
 pytest==6.2.2
 pytest-mock==3.5.1
+python-dotenv==0.15.0
 requests==2.25.1
 rfc3986==1.4.0
 sniffio==1.2.0
